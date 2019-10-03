@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="464050" started-at="2019-10-03T19:57:55Z" finished-at="2019-10-03T20:05:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="464050" started-at="2019-10-03T19:57:55Z" finished-at="2019-10-03T20:05:39Z">
+      <class name="com.xero.Xero.XeroScriptsTest">
+        <test-method status="PASS" signature="TC01_A()[pri:0, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC01_A" duration-ms="37465" started-at="2019-10-03T19:57:55Z" finished-at="2019-10-03T19:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_A -->
+        <test-method status="PASS" signature="TC01_B()[pri:1, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC01_B" duration-ms="30557" started-at="2019-10-03T19:58:33Z" finished-at="2019-10-03T19:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_B -->
+        <test-method status="PASS" signature="TC01_C()[pri:2, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC01_C" duration-ms="28780" started-at="2019-10-03T19:59:03Z" finished-at="2019-10-03T19:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_C -->
+        <test-method status="PASS" signature="TC01_D()[pri:3, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC01_D" duration-ms="24569" started-at="2019-10-03T19:59:32Z" finished-at="2019-10-03T19:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_D -->
+        <test-method status="PASS" signature="TC02_A()[pri:4, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC02_A" duration-ms="41024" started-at="2019-10-03T19:59:57Z" finished-at="2019-10-03T20:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_A -->
+        <test-method status="PASS" signature="TC02_B()[pri:5, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC02_B" duration-ms="25542" started-at="2019-10-03T20:00:38Z" finished-at="2019-10-03T20:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_B -->
+        <test-method status="PASS" signature="TC02_C()[pri:6, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC02_C" duration-ms="29963" started-at="2019-10-03T20:01:03Z" finished-at="2019-10-03T20:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_C -->
+        <test-method status="PASS" signature="TC02_D()[pri:7, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC02_D" duration-ms="20453" started-at="2019-10-03T20:01:33Z" finished-at="2019-10-03T20:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_D -->
+        <test-method status="PASS" signature="TC02_E()[pri:8, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC02_E" duration-ms="21559" started-at="2019-10-03T20:01:54Z" finished-at="2019-10-03T20:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_E -->
+        <test-method status="PASS" signature="TC03_A()[pri:9, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC03_A" duration-ms="59374" started-at="2019-10-03T20:02:15Z" finished-at="2019-10-03T20:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_A -->
+        <test-method status="PASS" signature="TC04_A()[pri:10, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC04_A" duration-ms="34629" started-at="2019-10-03T20:03:14Z" finished-at="2019-10-03T20:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_A -->
+        <test-method status="PASS" signature="TC06_A()[pri:11, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC06_A" duration-ms="38653" started-at="2019-10-03T20:03:49Z" finished-at="2019-10-03T20:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_A -->
+        <test-method status="PASS" signature="TC08_A()[pri:12, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC08_A" duration-ms="36616" started-at="2019-10-03T20:04:28Z" finished-at="2019-10-03T20:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_A -->
+        <test-method status="PASS" signature="TC10_A()[pri:13, instance:com.xero.Xero.XeroScriptsTest@475530b9]" name="TC10_A" duration-ms="34743" started-at="2019-10-03T20:05:04Z" finished-at="2019-10-03T20:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_A -->
+      </class> <!-- com.xero.Xero.XeroScriptsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
