@@ -65,7 +65,7 @@ public class XeroScriptsTest {
 		TC06_A.validateProfileSettings();
 	}
 
-	@Test(priority = 12)
+	//@Test(priority = 12)
 	public void TC08_A() throws Exception {
 		TC08_A.addOrganisation();
 	}

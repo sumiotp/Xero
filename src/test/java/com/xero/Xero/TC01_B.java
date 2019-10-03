@@ -8,9 +8,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC01_B extends getCommonDetails {
 	
-	public static void main(String[] args) throws Exception {
-		incorrectPassword();
-	}
 
 	public static void incorrectPassword() throws Exception
 
