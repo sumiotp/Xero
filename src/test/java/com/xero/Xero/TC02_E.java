@@ -9,16 +9,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC02_E extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			testbookKeeperDetails();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
+	
 	public static void testbookKeeperDetails() throws Exception
 
 	{

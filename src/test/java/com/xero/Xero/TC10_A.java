@@ -9,16 +9,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC10_A extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			validateSubscriptionBilling();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
 	public static void validateSubscriptionBilling() throws Exception
 
 	{

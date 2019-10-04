@@ -12,16 +12,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC06_A extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			validateProfileSettings();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
 	public static void validateProfileSettings() throws Exception
 
 	{

@@ -8,16 +8,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC01_C extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			incorrectEmail();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
 	public static void incorrectEmail() throws Exception
 
 	{

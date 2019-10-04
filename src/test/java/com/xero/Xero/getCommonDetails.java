@@ -49,11 +49,11 @@ public class getCommonDetails {
 						"D:\\Sumi\\jars\\new jars\\chromedriver_win32\\chromedriver.exe");
 				driver = new ChromeDriver();
 			} else if (strBrowser.equalsIgnoreCase("firefox")) {
-				System.setProperty("webdriver.firefox.driver",
+				System.setProperty("webdriver.gecko.driver",
 						"D:\\Sumi\\Development\\jar downloads\\geckodriver-v0.23.0-win64\\geckodriver.exe");
 				driver = new FirefoxDriver();
 			} else if (strBrowser.equalsIgnoreCase("ie")) {
-				System.setProperty("webdriver.ie.driver", "D:\\Sumi\\jars\\chromedriver_win32\\chromedriver.exe");
+				System.setProperty("webdriver.ie.driver", "D:\\Sumi\\jars\\chromedriver_win32\\iexploredriver.exe");
 				driver = new InternetExplorerDriver();
 			}
 			System.out.println("driver>>>" + driver);

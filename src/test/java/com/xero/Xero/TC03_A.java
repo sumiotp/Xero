@@ -9,16 +9,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC03_A extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			testAllTabs();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
 	public static void testAllTabs() throws Exception
 
 	{

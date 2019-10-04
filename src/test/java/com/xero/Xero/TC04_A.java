@@ -8,16 +8,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC04_A extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			testLogOut();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
 	public static void testLogOut() throws Exception
 
 	{

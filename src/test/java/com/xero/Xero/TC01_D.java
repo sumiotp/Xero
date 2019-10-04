@@ -11,16 +11,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC01_D extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			forgotPassword();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
 	public static void forgotPassword() throws Exception
 
 	{

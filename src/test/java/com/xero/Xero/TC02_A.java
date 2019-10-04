@@ -13,15 +13,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC02_A extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			getTrialVersion();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
 
 	public static void getTrialVersion() throws Exception
 

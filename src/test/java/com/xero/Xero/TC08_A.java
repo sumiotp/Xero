@@ -9,16 +9,6 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC08_A extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			addOrganisation();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
 	public static void addOrganisation() throws Exception
 
 	{

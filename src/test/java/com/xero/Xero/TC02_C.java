@@ -9,16 +9,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TC02_C extends getCommonDetails {
 
-	public static void main(String[] args) {
-
-		try {
-			testTermsOFUSe();
-		} catch (Exception e) {
-
-			e.printStackTrace();
-		}
-	}
-
+	
 	public static void testTermsOFUSe() throws Exception
 
 	{
